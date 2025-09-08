@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "993519632620",
+    "project_id": "calcolation-671ed",
+    "storage_bucket": "calcolation-671ed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993519632620:android:e088421773c47c2ff0e5c9",
+        "android_client_info": {
+          "package_name": "com.example.calclolution"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9Enr6XKUvq12MD_gDy95wsXuDbYr1wuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
