@@ -1,26 +1,27 @@
-import 'package:calclolution/splash.dart';
-import 'package:flutter/material.dart'; 
+import 'package:calclolution/homepage.dart';
+import 'package:flutter/material.dart';
 
+class MyWidget extends StatefulWidget {
+  const MyWidget({super.key});
 
-
-void main() {
-  runApp(const MyApp());
+  @override
+  State<MyWidget> createState() => _MyWidgetState();
 }
 
-class MyApp extends StatelessWidget {
-  const MyApp({super.key});
-
-  // This widget is the root of your application.
+class _MyWidgetState extends State<MyWidget> {
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'Flutter Demo',
-      theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
-      ),
-      debugShowCheckedModeBanner: false,
-      home:Splash(),
-    );
+    return  Homepage();
+
+
+
+
+      
+
+
+
+          
+        
+     
   }
 }
-

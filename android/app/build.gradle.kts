@@ -43,3 +43,6 @@ android {
 flutter {
     source = "../.."
 }
+dependencies {
+    implementation("com.facebook.android:facebook-login:16.0.1")
+}

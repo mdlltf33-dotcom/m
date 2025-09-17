@@ -12,7 +12,20 @@
           "package_name": "com.example.calclolution"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "993519632620-p1fs76j9g1au8jakv018rvn0vflskckt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.calclolution",
+            "certificate_hash": "f0c359364f78d172164a2ad4923bc81298e566d2"
+          }
+        },
+        {
+          "client_id": "993519632620-dtvo6ghfv6knnmlf69nq005l9nv7kp92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyC9Enr6XKUvq12MD_gDy95wsXuDbYr1wuQ"
@@ -20,7 +33,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993519632620-dtvo6ghfv6knnmlf69nq005l9nv7kp92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
